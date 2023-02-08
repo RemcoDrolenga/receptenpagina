@@ -1,0 +1,55 @@
+.Center{
+    margin: 0px auto;
+    width: 705px;
+}
+
+.Center li{
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.image{
+    width: 100%;
+    height: 100%;
+}
+
+.tip {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #def6ed;
+    padding: 10px 30px;
+    font-size: 20px;
+    line-height: 26px;
+  }
+
+.ingredienten li{
+    padding-top: 10px;
+
+}
+
+.stappen li{
+    padding-top: 20px;
+}
+
+#titel3{
+    margin-top: 40px;
+    font-size: 32px;
+    line-height: 32px;
+}
+
+#titel2{
+    margin-top: 40px;
+    font-size: 32px;
+    line-height: 32px;
+}
+
+#info{
+    margin-bottom: 0px;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+#titel{
+    font-size: 36px;
+    line-height: 32px;
+}
